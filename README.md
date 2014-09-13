@@ -5,6 +5,7 @@ For more experienced developers [Sprites](https://spritesapp.com) offers a JavaS
 
 - [Embedding infographics](https://github.com/spritesapp/sprites-sdk/wiki/Embedding-infographics)
 - [Adding rich content using widgets](https://github.com/spritesapp/sprites-sdk/wiki/Adding-rich-content-using-widgets)
+- [Live data format](https://github.com/spritesapp/sprites-sdk/wiki/Live-data-format)
 - [Your feedback](https://github.com/spritesapp/sprites-sdk/wiki/Your-feedback)
 
 You can also [create your own themes](https://github.com/spritesapp/sprites-themes/) with Sprites. 
